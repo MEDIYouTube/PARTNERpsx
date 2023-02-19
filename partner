@@ -10,7 +10,7 @@ OrionLib:MakeNotification({
 local Window = OrionLib:MakeWindow({Name = "PSX Partner & Mail", HidePremium = false, SaveConfig = false, ConfigFolder = "KryptedSaves"})
 
 local PlayerTab = Window:MakeTab({
-	Name = "Spoof",
+	Name = "Scam",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
